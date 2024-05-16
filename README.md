@@ -20,7 +20,13 @@ Here are some ideas to get you started:
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type='text/css' href="style.css" />
+        <style>
+            .ico img{
+                position: relative;
+                height: auto;
+                width: 6%;
+            }
+        </style>
     </head>
     <body> 
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Villabaal.Villabaal">
