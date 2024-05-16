@@ -13,23 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <style>
-            .ico img{
-                position: relative;
-                height: auto;
-                width: 6%;
-            }
-        </style>
-    </head>
-    <body> 
-    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Villabaal.Villabaal">
+  <style>
+      .ico img{
+          position: relative;
+          height: auto;
+          width: 6%;
+      }
+  </style>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Villabaal.Villabaal">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -90,5 +81,3 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-    </body>
-</html>
