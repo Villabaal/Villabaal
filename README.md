@@ -1,26 +1,6 @@
 
-<!--
-**Villabaal/Villabaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  <style>
-      .ico img{
-          position: relative;
-          height: auto;
-          width: 6%;
-      }
-  </style>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Villabaal.Villabaal">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Villabaal.Villabaal">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -29,8 +9,8 @@ Here are some ideas to get you started:
 </h1>
 
 <h5 align="center">
-    <a href="https://www.linkedin.com/in/villabaal/" class="ico" title="LinkedIn Profile">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <a href="https://www.linkedin.com/in/villabaal/" title="LinkedIn Profile">
+        <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     </a>
 </h5>
 <br>
@@ -51,19 +31,19 @@ Here are some ideas to get you started:
 <h2 align="center">Languages & Frameworks & Tools & Abilities </h2>
 <br>
 <p align="center">
-    <code class="ico"><img title="cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
-    <code class="ico"><img title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /></code>
-    <code class="ico"><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></code>
-    <code class="ico"><img title="Django" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"></code>
-    <code class="ico"><img title="DjangoRest" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg"></code>
-    <code class="ico"><img title="Javascript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
-    <code class="ico"><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"></code>
-    <code class="ico"><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"></code>
-    <code class="ico"><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></code>
-    <code class="ico"><img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"></code>
-    <code class="ico"><img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"></code>
-    <code class="ico"><img title="Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></code>
-    <code class="ico"><img title="Spring" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"></code>
+    <code class="ico"><img title="cpp" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /></code>
+    <code class="ico"><img title="Arduino" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /></code>
+    <code class="ico"><img title="Python" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"></code>
+    <code class="ico"><img title="Django" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"></code>
+    <code class="ico"><img title="DjangoRest" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg"></code>
+    <code class="ico"><img title="Javascript" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></code>
+    <code class="ico"><img title="HTML5" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"></code>
+    <code class="ico"><img title="CSS" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"></code>
+    <code class="ico"><img title="Git" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"></code>
+    <code class="ico"><img title="PostgreSQL" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"></code>
+    <code class="ico"><img title="Visual Studio Code" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"></code>
+    <code class="ico"><img title="Java" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"></code>
+    <code class="ico"><img title="Spring" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"></code>
 </p>
 <hr>
 
