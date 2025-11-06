@@ -18,7 +18,7 @@
   Hi, I'm Alejandro Villalobos, Electronics Engineer
   <br>
   <br>
-  🎓 I graduated from Instituto Tecnológico de la Laguna
+  🎓 I graduated from Universidad Autonoma de Nuevo Leon
   <br>
   💻 I love writing code and learn anythings about it
   <br>
